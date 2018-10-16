@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" android:tag="layout/fragment_marketoverview_detail_top_losers_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="@dimen/_4sdp">
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/textview_name"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:gravity="left|center_vertical"
+                android:text="@string/symbol"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/text_view_price_open"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:gravity="right|center_vertical"
+                android:text="@string/open"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/textview_price_close"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:gravity="right|center_vertical"
+                android:text="@string/close"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/textview_price_high"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:gravity="right|center_vertical"
+                android:text="@string/high"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/textview_price_low"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:gravity="right|center_vertical"
+                android:text="@string/low"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/textview_volumn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2.7"
+                android:gravity="right|center_vertical"
+                android:text="@string/volumn"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/textview_change"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="right|center_vertical"
+                android:text="@string/change"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+        </LinearLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white" />
+    </LinearLayout>
+         

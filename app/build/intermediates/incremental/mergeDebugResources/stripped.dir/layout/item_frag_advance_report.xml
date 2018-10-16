@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content" android:tag="layout/item_frag_advance_report_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_36sdp"
+            android:orientation="horizontal"
+            >
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_ngayung"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_sotien"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="right|center"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_tinhtrang"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:textSize="@dimen/_12sdp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:background="@color/gray"
+            android:layout_height="@dimen/_1sdp">
+
+        </View>
+
+    </LinearLayout>
+         

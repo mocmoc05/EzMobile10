@@ -1,0 +1,11 @@
+                                                                   
+
+                 
+
+    <FrameLayout
+        android:id="@+id/contentview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/fragment_watchlist_statistics_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    </FrameLayout>
+         

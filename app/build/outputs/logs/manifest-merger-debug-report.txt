@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.0.1.aar/6e99cf40cc04c6c5fc690125efb7683b/AndroidManifest.xml:2:1-10:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.0.1.aar/8aade158480286494fa4ca92e27c1b09/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/03c3a5f4177c5ed4a2920895dcbdcab7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/208bff59347398f7d29472e288c1f93e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:20:1-40:12
+MERGED from [com.android.support:design:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e520255a9ed4ddd7479dc9bf6baf29d8/AndroidManifest.xml:17:1-22:12
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ecd5704942aa416a9ab370f4d28b8f10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/00cf8a6af4188355d49e419203bcd9b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6359c6994361d93be9596ffe6acdefe5/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/2d5971b8fb555f75ba07f51ba653d9f3/AndroidManifest.xml:15:1-21:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/3edfce339ac0edeaf1ee92872fad11fa/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/74a344edae676d332a9cde4e5bf38564/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.persistence.room:runtime:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0-beta2.aar/a6574600411a77f866006e081876f5d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:transition:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/097a60aabd7c4c86eab1d073fb51cc5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11036fcacef5edbc22624a24d128c844/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/325a1900e13b2de0561486622b5e1679/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/38b3fc28237173073609ae8c5c7d24b2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4afac1dc507e4271ee18094b24c9c908/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c1ed6c7e229b7e27d70f6429ea90dd12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/60f1c13e957e92dcaaca300f8bcc068a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2f93837984c73df13eef0c41f8a4fae7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/96f4f88fbf008664a157ba9f60c037c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3c867d169c68bf9ab6f26f746bddbb4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e8f5f4d33e56b7a6d7de98098495a3d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/32d04df314aba0df96962806b8a5a842/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/c2b287ea11d1771ace5b0910222e43e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bosphere.android-filelogger:filelogger:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/filelogger-1.0.1.aar/2f5a6878561b3e3d8013904a87206fe0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/4cd4a54b6b671aa2dc9694decd32b582/AndroidManifest.xml:2:1-11:12
+MERGED from [net.cachapa.expandablelayout:expandablelayout:2.9.2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/expandablelayout-2.9.2.aar/f72fc5fdcc2dbb41aa40e13d91d7b554/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f222ddf6391135004de193bb2215a16e/AndroidManifest.xml:17:1-22:12
+MERGED from [:TableLib] /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/TableLib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/rxandroid-1.1.0.aar/c71f07e8df7850ba487596a482bb5e31/AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.persistence:db-framework:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0-beta2.aar/2a6bc9415b88540325baf577e2acfdf2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/db-1.1.0-beta2.aar/4c86984b25d233445ab9793fc8644f59/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1f5fb22925db99ee376ea09280774dfb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/64c8810d51c223a675eacf4131d8e5d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6bfd25ef209df100bb7f7ce515b3315/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/3c1cad9e3e87df4a32bb46c8820c7499/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/daf0a7f212fd9de84411945ef8f270ce/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:8:5-35:19
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.0.1.aar/6e99cf40cc04c6c5fc690125efb7683b/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.0.1.aar/6e99cf40cc04c6c5fc690125efb7683b/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.0.1.aar/8aade158480286494fa4ca92e27c1b09/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.0.1.aar/8aade158480286494fa4ca92e27c1b09/AndroidManifest.xml:8:5-20
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:32:5-38:19
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:11:5-21:19
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:11:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6359c6994361d93be9596ffe6acdefe5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6359c6994361d93be9596ffe6acdefe5/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/3edfce339ac0edeaf1ee92872fad11fa/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/3edfce339ac0edeaf1ee92872fad11fa/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/74a344edae676d332a9cde4e5bf38564/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/74a344edae676d332a9cde4e5bf38564/AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/38b3fc28237173073609ae8c5c7d24b2/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/38b3fc28237173073609ae8c5c7d24b2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/32d04df314aba0df96962806b8a5a842/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/32d04df314aba0df96962806b8a5a842/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bosphere.android-filelogger:filelogger:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/filelogger-1.0.1.aar/2f5a6878561b3e3d8013904a87206fe0/AndroidManifest.xml:7:5-9:19
+MERGED from [com.github.bosphere.android-filelogger:filelogger:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/filelogger-1.0.1.aar/2f5a6878561b3e3d8013904a87206fe0/AndroidManifest.xml:7:5-9:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/3c1cad9e3e87df4a32bb46c8820c7499/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/3c1cad9e3e87df4a32bb46c8820c7499/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:9:9-28
+activity#com.trang.ez_mobile.view.splash_screen.MainActivity
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:17:9-27:20
+	android:screenOrientation
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:18:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.trang.ez_mobile.view.crash_screen.CrashActivity
+ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:29:9-34:20
+	android:screenOrientation
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:32:13-49
+	android:process
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml:30:13-60
+uses-sdk
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.0.1.aar/6e99cf40cc04c6c5fc690125efb7683b/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.0.1.aar/6e99cf40cc04c6c5fc690125efb7683b/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.0.1.aar/8aade158480286494fa4ca92e27c1b09/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.0.1.aar/8aade158480286494fa4ca92e27c1b09/AndroidManifest.xml:6:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/03c3a5f4177c5ed4a2920895dcbdcab7/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/03c3a5f4177c5ed4a2920895dcbdcab7/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/208bff59347398f7d29472e288c1f93e/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/208bff59347398f7d29472e288c1f93e/AndroidManifest.xml:22:5-44
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:design:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e520255a9ed4ddd7479dc9bf6baf29d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e520255a9ed4ddd7479dc9bf6baf29d8/AndroidManifest.xml:20:5-44
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:7:5-9:41
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ecd5704942aa416a9ab370f4d28b8f10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ecd5704942aa416a9ab370f4d28b8f10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/00cf8a6af4188355d49e419203bcd9b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/00cf8a6af4188355d49e419203bcd9b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6359c6994361d93be9596ffe6acdefe5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6359c6994361d93be9596ffe6acdefe5/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/2d5971b8fb555f75ba07f51ba653d9f3/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/2d5971b8fb555f75ba07f51ba653d9f3/AndroidManifest.xml:19:5-43
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/3edfce339ac0edeaf1ee92872fad11fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/3edfce339ac0edeaf1ee92872fad11fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/74a344edae676d332a9cde4e5bf38564/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/74a344edae676d332a9cde4e5bf38564/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.persistence.room:runtime:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0-beta2.aar/a6574600411a77f866006e081876f5d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0-beta2.aar/a6574600411a77f866006e081876f5d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/097a60aabd7c4c86eab1d073fb51cc5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/097a60aabd7c4c86eab1d073fb51cc5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11036fcacef5edbc22624a24d128c844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11036fcacef5edbc22624a24d128c844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/325a1900e13b2de0561486622b5e1679/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/325a1900e13b2de0561486622b5e1679/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/38b3fc28237173073609ae8c5c7d24b2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/38b3fc28237173073609ae8c5c7d24b2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4afac1dc507e4271ee18094b24c9c908/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4afac1dc507e4271ee18094b24c9c908/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c1ed6c7e229b7e27d70f6429ea90dd12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c1ed6c7e229b7e27d70f6429ea90dd12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/60f1c13e957e92dcaaca300f8bcc068a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/60f1c13e957e92dcaaca300f8bcc068a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2f93837984c73df13eef0c41f8a4fae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2f93837984c73df13eef0c41f8a4fae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/96f4f88fbf008664a157ba9f60c037c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/96f4f88fbf008664a157ba9f60c037c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3c867d169c68bf9ab6f26f746bddbb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3c867d169c68bf9ab6f26f746bddbb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e8f5f4d33e56b7a6d7de98098495a3d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e8f5f4d33e56b7a6d7de98098495a3d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/32d04df314aba0df96962806b8a5a842/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/32d04df314aba0df96962806b8a5a842/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/c2b287ea11d1771ace5b0910222e43e2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/c2b287ea11d1771ace5b0910222e43e2/AndroidManifest.xml:20:5-43
+MERGED from [com.github.bosphere.android-filelogger:filelogger:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/filelogger-1.0.1.aar/2f5a6878561b3e3d8013904a87206fe0/AndroidManifest.xml:5:5-43
+MERGED from [com.github.bosphere.android-filelogger:filelogger:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/filelogger-1.0.1.aar/2f5a6878561b3e3d8013904a87206fe0/AndroidManifest.xml:5:5-43
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/4cd4a54b6b671aa2dc9694decd32b582/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/4cd4a54b6b671aa2dc9694decd32b582/AndroidManifest.xml:7:5-9:41
+MERGED from [net.cachapa.expandablelayout:expandablelayout:2.9.2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/expandablelayout-2.9.2.aar/f72fc5fdcc2dbb41aa40e13d91d7b554/AndroidManifest.xml:8:5-10:41
+MERGED from [net.cachapa.expandablelayout:expandablelayout:2.9.2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/expandablelayout-2.9.2.aar/f72fc5fdcc2dbb41aa40e13d91d7b554/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f222ddf6391135004de193bb2215a16e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f222ddf6391135004de193bb2215a16e/AndroidManifest.xml:20:5-44
+MERGED from [:TableLib] /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/TableLib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:TableLib] /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/TableLib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/rxandroid-1.1.0.aar/c71f07e8df7850ba487596a482bb5e31/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/rxandroid-1.1.0.aar/c71f07e8df7850ba487596a482bb5e31/AndroidManifest.xml:19:5-43
+MERGED from [android.arch.persistence:db-framework:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0-beta2.aar/2a6bc9415b88540325baf577e2acfdf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0-beta2.aar/2a6bc9415b88540325baf577e2acfdf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/db-1.1.0-beta2.aar/4c86984b25d233445ab9793fc8644f59/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0-beta2] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/db-1.1.0-beta2.aar/4c86984b25d233445ab9793fc8644f59/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1f5fb22925db99ee376ea09280774dfb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1f5fb22925db99ee376ea09280774dfb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/64c8810d51c223a675eacf4131d8e5d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/64c8810d51c223a675eacf4131d8e5d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6bfd25ef209df100bb7f7ce515b3315/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6bfd25ef209df100bb7f7ce515b3315/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/3c1cad9e3e87df4a32bb46c8820c7499/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/3c1cad9e3e87df4a32bb46c8820c7499/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/daf0a7f212fd9de84411945ef8f270ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/daf0a7f212fd9de84411945ef8f270ce/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/8be06c460206c09c9d0a509705f02060/AndroidManifest.xml:34:13-63
+activity#cat.ereza.customactivityoncrash.activity.DefaultErrorActivity
+ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:12:9-14:49
+	android:process
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:14:13-46
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:13:13-89
+provider#cat.ereza.customactivityoncrash.provider.CaocInitProvider
+ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:16:9-20:39
+	android:authorities
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:18:13-85
+	android:exported
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:19:13-37
+	android:initOrder
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/7238c7335bc8db7b16045aae49032e51/AndroidManifest.xml:17:13-85
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9ee13c4ad968df5162918a49382067db/AndroidManifest.xml:24:13-83
+service#com.bosphere.filelogger.FileLoggerService
+ADDED from [com.github.bosphere.android-filelogger:filelogger:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/filelogger-1.0.1.aar/2f5a6878561b3e3d8013904a87206fe0/AndroidManifest.xml:8:9-77
+	android:name
+		ADDED from [com.github.bosphere.android-filelogger:filelogger:1.0.1] /Users/vuvanhoan/.gradle/caches/transforms-1/files-1.1/filelogger-1.0.1.aar/2f5a6878561b3e3d8013904a87206fe0/AndroidManifest.xml:8:18-74

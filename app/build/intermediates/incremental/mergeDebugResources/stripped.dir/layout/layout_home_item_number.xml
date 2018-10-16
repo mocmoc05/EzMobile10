@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+                 
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" android:tag="layout/layout_home_item_number_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:id="@+id/lnLayoutMainHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/_8sdp"
+            android:paddingRight="@dimen/_8sdp">
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/txtIndices"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingBottom="@dimen/_8sdp"
+                android:paddingRight="@dimen/_4sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/txtLast"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|right"
+                android:paddingBottom="@dimen/_8sdp"
+                android:paddingRight="@dimen/_4sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/txtChange"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|right"
+                android:paddingBottom="@dimen/_8sdp"
+                android:paddingRight="@dimen/_4sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/txtQty"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|right"
+                android:paddingBottom="@dimen/_8sdp"
+                android:paddingRight="@dimen/_4sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+        </LinearLayout>
+    </LinearLayout>
+         

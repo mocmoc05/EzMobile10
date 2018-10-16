@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/_6sdp"
+    android:layout_marginTop="@dimen/_6sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.trang.ez_mobile.util.custormView.TextViewFontBold
+            android:id="@+id/tv_value_chiso"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.7"
+            android:gravity="left|center"
+            android:textColor="@color/blue_text"
+            android:textSize="@dimen/_11sdp" />
+
+        <com.trang.ez_mobile.util.custormView.TextViewFontBold
+            android:id="@+id/tv_value_gia"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.6"
+            android:gravity="right|center"
+            android:textSize="@dimen/_11sdp" />
+
+        <com.trang.ez_mobile.util.custormView.TextViewFontBold
+            android:id="@+id/tv_value_thaydoi"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.7"
+            android:gravity="right|center"
+            android:textSize="@dimen/_11sdp" />
+
+        <com.trang.ez_mobile.util.custormView.TextViewFontBold
+            android:id="@+id/tv_value_thaydoi_ptram"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.7"
+            android:gravity="right|center"
+            android:textSize="@dimen/_11sdp" />
+
+    </LinearLayout>
+
+</LinearLayout>

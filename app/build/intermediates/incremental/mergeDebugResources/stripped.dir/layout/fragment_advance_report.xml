@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+           
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:tag="layout/fragment_advance_report_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/ll_title"
+                android:paddingLeft="@dimen/_8sdp"
+                android:paddingRight="@dimen/_8sdp"
+                android:background="@color/Grey"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="@dimen/_30sdp">
+
+                <com.trang.ez_mobile.util.custormView.TextViewFont
+                    android:layout_width="0dp"
+                    android:textSize="@dimen/_12sdp"
+                    android:text="@string/contract_date"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:layout_height="match_parent" />
+
+                <com.trang.ez_mobile.util.custormView.TextViewFont
+                    android:layout_width="0dp"
+                    android:text="@string/amount"
+                    android:textSize="@dimen/_12sdp"
+                    android:gravity="right|center"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent" />
+
+                <com.trang.ez_mobile.util.custormView.TextViewFont
+                    android:layout_width="0dp"
+                    android:text="@string/status"
+                    android:textSize="@dimen/_12sdp"
+                    android:gravity="center"
+                    android:layout_weight="1.8"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rcv_list_ungtruoc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/ll_title"
+                android:paddingLeft="@dimen/_8sdp"
+                android:paddingRight="@dimen/_8sdp"
+                android:layout_alignParentLeft="true"></android.support.v7.widget.RecyclerView>
+
+            <Button
+                android:layout_alignParentBottom="true"
+                android:id="@+id/btn_ungtien"
+                android:layout_width="match_parent"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_12sdp"
+                android:text="@string/money_loan"
+                android:layout_margin="@dimen/_8sdp"
+                android:background="@drawable/custom_button_blue"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_progress_fragment_advance_report"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="match_parent">
+
+            <ProgressBar
+                android:layout_width="match_parent"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+         

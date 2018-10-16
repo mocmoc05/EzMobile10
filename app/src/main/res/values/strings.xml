@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">EzMobile 1.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="crash_message">Vui lòng bấm RESTART để chạy lại ứng dụng.\n Nếu sự cố tiếp tục xảy ra, vui lòng liên hệ bộ phận kỹ thuật để được trợ giúp.</string>
+    <string name="error_details">Chi tiết lỗi</string>
+    <string name="loading_data">Đang tải dữ liệu ...</string>
+    <string name="update_version">Cập nhật\nphiên bản</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="network_error">Network Error</string>
+    <string name="error_connect_to_server">Cannot connect to server</string>
+
+    <!--MARKET OVERVIEW-->
+    <string name="change">Change</string>
+    <string name="change_percent">Change %</string>
+    <string name="volumn">Volumn</string>
+    <string name="low">Low</string>
+    <string name="high">High</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="symbol">Symbol</string>
+    <string name="value_bil">Value (bil)</string>
+    <string name="last">Last</string>
+    <string name="indexes">Indexes</string>
+    <string name="setting">SETTING</string>
+    <!--MARKET OVERVIEW DETAIL-->
+    <string name="market_overview_match_price"><![CDATA[%1$s : %2$s]]></string>
+    <string name="market_overview_detail_change_value_up"><![CDATA[<font color="#22b14c">( %1$s ▲ %2$s%%)</font>]]></string>
+    <string name="market_overview_detail_change_value_average"><![CDATA[<font color="#FF7E2B">( %1$s ■ %2$s%%)</font>]]></string>
+    <string name="market_overview_detail_change_value_down"><![CDATA[<font color="#ff4444">( %1$s ▼ %2$s%%)</font>]]></string>
+
+    <string name="market_overview_detail_price_up"><![CDATA[<font color = "#22b14c">▲ %1$s</font>]]></string>
+    <string name="market_overview_detail_price_down"><![CDATA[<font color="#ff4444">▼ %1$s</font>]]></string>
+    <string name="market_overview_detail_price_average"><![CDATA[<font color="#FF7E2B">■ %1$s</font>]]></string>
+
+    <string name="market_overview_detail_price_val"><![CDATA[Val: %1$s bil]]></string>
+    <string name="market_overview_detail_price_qty"><![CDATA[Qty: %1$s]]></string>
+    <string name="market_overview_detail_foreign_val"><![CDATA[Val: %1$s bil]]></string>
+    <string name="market_overview_detail_foreign_qty"><![CDATA[Qty: %1$s]]></string>
+
+    <string name="up_down_stocks">Up/Down stocks:</string>
+    <string name="put_throught">Putthrought:</string>
+
+    <!--MARKET OVERVIEW CHART-->
+    <string name="one_day">1D</string>
+    <string name="one_month">1M</string>
+    <string name="one_week">1W</string>
+    <string name="three_month">3M</string>
+    <string name="six_month">6M</string>
+    <string name="one_year">1Y</string>
+    <string name="two_year">2Y</string>
+    <string name="all">ALL</string>
+    <string name="market_overview">Market Overview</string>
+
+    <string name="chart">CHART</string>
+    <string name="top_gainers">TOP GAINERS</string>
+    <string name="top_losers">TOP LOSERS</string>
+    <string name="most_active">MOST ACTIVE</string>
+
+    <!--WATCHLIST-->
+    <string name="bang_gia">Watchlist</string>
+    <string name="statistic">Statistic</string>
+    <string name="news">News</string>
+    <string name="foreign_ownership">Foreign Ownership</string>
+    <string name="finance_overview">Finance Overview</string>
+    <string name="financial_figures">Financial figures</string>
+    <string name="trading">Trading</string>
+    <string name="key_fs_items">Key fs items</string>
+    <string name="financial_ratios">Financial ratios</string>
+    <string name="Favorites">Yêu thích</string>
+
+    <!--BIỂU ĐỒ-->
+    <string name="chart1">Chart</string>
+    <string name="symbol_search">Symbol Search</string>
+
+    <!--HOME-->
+    <string name="home">Home</string>
+    <string name="home_indexes_item_change_up"><![CDATA[<font color="#22b14c">%1$s</font><font color="#000000">|</font><font color="#22b14c">%2$s</font>]]></string>
+    <string name="home_indexes_item_change_average"><![CDATA[<font color="#FF7E2B">%1$s</font><font color="#000000">|</font><font color="#FF7E2B">%2$s</font>]]></string>
+    <string name="home_indexes_item_change_down"><![CDATA[<font color="#ff4444">%1$s</font><font color="#000000">|</font><font color="#ff4444">%2$s</font>]]></string>
+    <string name="home_indexes_item_change_floor"><![CDATA[<font color="#1496C8">%1$s</font><font color="#000000">|</font><font color="#1496C8">%2$s</font>]]></string>
+    <string name="home_indexes_item_change_top"><![CDATA[<font color="#FF00FF">%1$s</font><font color="#000000">|</font><font color="#FF00FF">%2$s</font>]]></string>
+    <string name="news1">News</string>
+    <string name="bil">bil</string>
+    <string name="world_index">World Indexes</string>
+    <string name="bang_gia_phai_sinh">Bảng Giá Phái Sinh</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="market_closed">Market was closed</string>
+
+    <!--TIN TUC-->
+    <string name="market_news">Market News</string>
+    <string name="department_report">Department Report</string>
+    <string name="concern">Concern</string>
+    <string name="analysis_comment">Analysis - Comment</string>
+    <string name="FPTS_news">FPTS News</string>
+    <string name="related_news">Related News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+    <string name="password">Password</string>
+    <string name="account">Account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t have an account? </string>
+    <string name="create_account">Create Account</string>
+    <string name="cancel">Cancel</string>
+    <string name="you_dont_account">You don\'t import account</string>
+    <string name="you_dont_password">You don\'t import password</string>
+    <string name="price">Price</string>
+    <string name="order_type">Order Type</string>
+    <string name="quantity">Quantity</string>
+    <string name="exchange">Exchange</string>
+    <string name="confirm_buy">Confirm Buy</string>
+    <string name="stock_balance">Stock balance:</string>
+    <string name="confirm_sell">Confirm Sell</string>
+    <string name="total">Total</string>
+    <string name="waiting">Waiting</string>
+    <string name="current">Current</string>
+    <string name="cash_balance">Cash balance:</string>
+    <string name="advance_amount">Advance amount:</string>
+    <string name="available_balance">Available balance:</string>
+    <string name="held_for_buying_orders">Held for buying orders:</string>
+    <string name="place_orders">Place Orders</string>
+    <string name="asset_report">Asset Report</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="stock">Stock</string>
+    <string name="cash">Cash</string>
+    <string name="events">Events</string>
+    <string name="available_cash">Available Cash:</string>
+    <string name="market_open">Market is openning</string>
+    <string name="connect_net_fail">Connect Network Fail</string>
+    <string name="connect_server_fail">Connect Server Fail</string>
+    <string name="dont_find_stock">Don\'t find stock!</string>
+    <string name="find_stock_fail">Không tìm thấy Mã chứng khoán!</string>
+    <string name="advance_report">Advance Report</string>
+    <string name="contract_date">Contract date</string>
+    <string name="amount">Amount</string>
+    <string name="status">Status</string>
+    <string name="money_confirm">Money Confirm</string>
+    <string name="money_loan">Money Loan</string>
+    <string name="the_money_you_are_having">The money you are having:</string>
+    <string name="the_maximum_amount_you_can_apply">The maximum amount you can apply:</string>
+    <string name="get_money_back">Get money back</string>
+
+</resources>

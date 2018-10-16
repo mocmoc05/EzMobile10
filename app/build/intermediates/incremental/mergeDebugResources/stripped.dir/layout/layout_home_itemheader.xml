@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+
+                 
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/lnItemHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_header_home"
+        android:orientation="horizontal"
+        android:padding="@dimen/_4sdp" android:tag="layout/layout_home_itemheader_0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="@dimen/_8sdp">
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/txtTitleHeader"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_14sdp" />
+
+            <ImageView
+                android:id="@+id/imageview_add"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:background="@drawable/bg_home_icon_imageview"
+                android:padding="@dimen/_2sdp"
+                android:src="@drawable/ic_add_black_24dp" />
+
+            <ImageView
+                android:id="@+id/imageview_edit"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:background="@drawable/bg_home_icon_imageview"
+                android:padding="@dimen/_4sdp"
+                android:src="@drawable/ic_edit_black_24dp" />
+
+            <ImageView
+                android:id="@+id/imageview_detail"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:background="@drawable/bg_home_icon_imageview"
+                android:padding="@dimen/_2sdp"
+                android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+        </LinearLayout>
+    </LinearLayout>
+         

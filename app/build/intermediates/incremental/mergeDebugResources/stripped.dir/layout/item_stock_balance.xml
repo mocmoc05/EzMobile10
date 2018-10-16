@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content" android:tag="layout/item_stock_balance_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/_8sdp"
+            android:paddingTop="@dimen/_8sdp">
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/tv_ma_ck_stock_balance"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.7"
+                android:gravity="center_vertical"
+                android:textColor="@color/blue_text"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_tong_sl"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center|right"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_dang_cho_ve"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center|right"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_sl_hien_tai"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center|right"
+                android:textSize="@dimen/_12sdp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+         

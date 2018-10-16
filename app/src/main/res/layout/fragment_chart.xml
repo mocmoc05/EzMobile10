@@ -1,0 +1,196 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data></data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/ln1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Grey"
+            android:orientation="horizontal"
+            android:padding="@dimen/_4sdp">
+
+            <com.trang.ez_mobile.util.custormView.AutoCompleteTextViewFont
+                android:id="@+id/code"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/_4sdp"
+                android:layout_weight="2"
+                android:background="@drawable/bg_chart_spinner"
+                android:completionThreshold="1"
+                android:dropDownHeight="wrap_content"
+                android:dropDownWidth="match_parent"
+                android:hint="@string/symbol_search"
+                android:inputType="text"
+                android:maxLength="9"
+                android:maxLines="1"
+                android:minWidth="@dimen/_160sdp"
+                android:textAllCaps="false"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="3"
+                android:background="@drawable/bg_chart_spinner"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <com.trang.ez_mobile.util.custormView.SpinnerFont
+                    android:id="@+id/type"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="@dimen/_11sdp" />
+
+                <!--<ImageView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:layout_marginRight="5dp"-->
+                <!--android:padding="@dimen/_4sdp"-->
+                <!--android:src="@drawable/ic_arrow_drop_down_black_24dp" />-->
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/menu_tab"
+            android:layout_below="@+id/ln1"
+            android:orientation="vertical"
+            android:padding="@dimen/_4sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:orientation="vertical">
+
+                <com.github.mikephil.charting.charts.CandleStickChart
+                    android:id="@+id/candle_stick"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/_4sdp" />
+
+                <com.github.mikephil.charting.charts.CombinedChart
+                    android:id="@+id/char2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/_4sdp"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:orientation="vertical">
+
+                <com.github.mikephil.charting.charts.BarChart
+                    android:id="@+id/barchart"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/_4sdp" />
+
+                <com.github.mikephil.charting.charts.CombinedChart
+                    android:id="@+id/char1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/_4sdp"
+                    android:visibility="gone" />
+
+                <com.github.mikephil.charting.charts.LineChart
+                    android:id="@+id/line_chart"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/_4sdp"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/menu_tab"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_32sdp"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/tab_one_week"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@color/colorBackground"
+                android:gravity="center"
+                android:text="1W" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/tab_one_month"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@color/colorBackground"
+                android:gravity="center"
+                android:text="1M" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/tab_three_month"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@color/colorBackground"
+                android:gravity="center"
+                android:text="3M" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+
+                android:id="@+id/tab_six_month"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@color/colorBackground"
+                android:gravity="center"
+                android:text="6M" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/tab_one_year"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@color/colorBackground"
+                android:gravity="center"
+                android:text="1Y" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                android:id="@+id/tab_all"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@color/colorBackground"
+                android:gravity="center"
+                android:text="ALL" />
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/load"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+    </RelativeLayout>
+</layout>

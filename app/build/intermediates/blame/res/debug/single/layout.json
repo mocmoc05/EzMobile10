@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_balance.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/asset_report/layout/fragment_stock_balance.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_market_overview_detail.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_market_overview_detail.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_event_fragment.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_event_fragment.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_news.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_news.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_chart_custom.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/dialog_chart_custom.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_watchlist_financial.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_watchlist_financial.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/users/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_fragment_buy.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/place_orders/layout/dialog_fragment_buy.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_home_header_sub_number.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/layout_home_header_sub_number.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_marketoverview_detail_top_losers.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_marketoverview_detail_top_losers.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_advance_report.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/advance_report/layout/dialog_advance_report.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cash_balance.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/asset_report/layout/fragment_cash_balance.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_market_overview_hsx.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_market_overview_hsx.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_trading.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_trading.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_stock_balance.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/asset_report/layout/item_stock_balance.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_main_menu_recyclerview_content.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_main_menu_recyclerview_content.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_foreign_ownership.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_foreign_ownership.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_fragment_buy.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/place_orders/layout/item_fragment_buy.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nav_user_layout.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/nav_user_layout.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_main_menu_biggroup_header.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_main_menu_biggroup_header.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sell.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/place_orders/layout/fragment_sell.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_buy.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/place_orders/layout/fragment_buy.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_main_menu_group_content.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_main_menu_group_content.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_marketoverview_detail_most_active.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_marketoverview_detail_most_active.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_main_menu_biggroup_content.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_main_menu_biggroup_content.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_statistics.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_statistics.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_asset_report.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/asset_report/layout/fragment_asset_report.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_market_overview_recyclerview_market_detail.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_market_overview_recyclerview_market_detail.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_place_orders.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/place_orders/layout/fragment_place_orders.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_home_indexes_itemview.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_home_indexes_itemview.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_main_menu_group_header.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_main_menu_group_header.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_marketoverview_detail_top_gainers.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_marketoverview_detail_top_gainers.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_watchlist_news.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_watchlist_news.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_market_overview_chart.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_market_overview_chart.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_news.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_news.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_home_indexes_layout.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_home_indexes_layout.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_crash.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/activity_crash.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_main_menu_biggroup_header_account.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_main_menu_biggroup_header_account.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_event.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_event.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_financial_figures.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_financial_figures.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_chart.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_chart.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_market_overview_hnx.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_market_overview_hnx.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sign_up.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/users/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_chart.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_chart.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_finance_overview.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_finance_overview.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_advance_report.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/advance_report/layout/fragment_advance_report.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_home_item_number.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/layout_home_item_number.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_market_overview_recyclerview_market.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/item_market_overview_recyclerview_market.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_watchlist_detail.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_watchlist_detail.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_market_overview.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/fragment_market_overview.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_home_header_sub_text.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/layout_home_header_sub_text.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_home_itemheader.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/layout_home_itemheader.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_frag_advance_report.xml",
+        "source": "/Users/vuvanhoan/Desktop/Projects/projects/DATN_Tra/datn/EzMobile10/app/src/main/res/layouts/advance_report/layout/item_frag_advance_report.xml"
+    }
+]

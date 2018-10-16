@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+                 
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" android:tag="layout/fragment_watchlist_financial_figures_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:id="@+id/nut"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right">
+
+                <com.trang.ez_mobile.util.custormView.ButtonFont
+                    android:id="@+id/chitieu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_item_financialfigures2"
+                    android:gravity="center|center_vertical"
+                    android:text="@string/key_fs_items"
+                    android:textAllCaps="false"
+                    android:textColor="@color/Black"
+                    android:textSize="@dimen/_10sdp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="left">
+
+                <com.trang.ez_mobile.util.custormView.ButtonFont
+                    android:id="@+id/chiso"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_item_financialfiguresw1"
+                    android:gravity="center|center_vertical"
+                    android:text="@string/financial_ratios"
+                    android:textAllCaps="false"
+                    android:textColor="@color/Black"
+                    android:textSize="@dimen/_10sdp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/nut" />
+        </LinearLayout>
+    </LinearLayout>
+         

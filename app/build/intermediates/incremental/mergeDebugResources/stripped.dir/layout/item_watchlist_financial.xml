@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:tag="layout/item_watchlist_financial_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <com.trang.ez_mobile.util.custormView.TextViewFont
+            android:id="@+id/label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_9sdp"
+            android:layout_toLeftOf="@+id/value"
+            android:textColor="@color/colorFont"
+            android:textSize="@dimen/_10sdp" />
+
+        <com.trang.ez_mobile.util.custormView.TextViewFont
+            android:id="@+id/value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/_9sdp"
+            android:layout_marginRight="@dimen/_8sdp"
+            android:textColor="@color/colorFont"
+            android:textSize="@dimen/_10sdp" />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:layout_below="@+id/value"
+            android:layout_marginLeft="@dimen/_9sdp"
+            android:layout_marginRight="@dimen/_9sdp"
+            android:background="@color/gray" />
+
+    </RelativeLayout>
+         

@@ -1,0 +1,365 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data></data>
+
+    <FrameLayout
+        android:id="@+id/contentview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1">
+
+                        <LinearLayout
+                            android:layout_width="20dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="10dp" />
+
+                        <LinearLayout
+                            android:layout_width="40dp"
+                            android:layout_height="match_parent">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtBMrkTitle"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text="Giá"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="match_parent">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtBVolTitle"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text="Khối lượng"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1">
+
+                        <LinearLayout
+                            android:layout_width="20dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="10dp">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="left|center_vertical"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="40dp"
+                            android:layout_height="match_parent">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtSMrkTitle"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text="Giá"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="match_parent">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtSVolTitle"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text="Khối lượng"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="5"
+                    android:padding="@dimen/_5sdp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1">
+
+                        <LinearLayout
+                            android:layout_width="20dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="@dimen/_10sdp"
+                            android:orientation="vertical"
+                            android:weightSum="3">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtB1Title"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="left|center_vertical"
+                                android:text="B1"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtB2Title"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="left|center_vertical"
+                                android:text="B2"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtB3Title"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="left|center_vertical"
+                                android:text="B3"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="40dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:weightSum="3">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtB1MrkValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtB2MrkValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtB3MrkValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:weightSum="3">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtB1VolValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtB2VolValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtB3VolValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1">
+
+                        <LinearLayout
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="10dp"
+                            android:orientation="vertical"
+                            android:weightSum="3">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtS1Title"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="left|center_vertical"
+                                android:text="S1"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtS2Title"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="left|center_vertical"
+                                android:text="S2"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFont
+                                android:id="@+id/txtS3Title"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="left|center_vertical"
+                                android:text="S3"
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_10sdp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="40dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:weightSum="3">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtS1MrkValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtS2MrkValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtS3MrkValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:weightSum="3">
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtS1VolValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtS2VolValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+
+                            <com.trang.ez_mobile.util.custormView.TextViewFontBold
+                                android:id="@+id/txtS3VolValue"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text=""
+                                android:textColor="@color/colorFont"
+                                android:textSize="@dimen/_12sdp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="3"></LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+</layout>

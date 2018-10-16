@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+                 
+                        
+                                                                    
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:orientation="horizontal" android:tag="layout/item_event_fragment_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <com.trang.ez_mobile.util.custormView.TextViewFont
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1"
+            android:gravity="center|left"
+            android:tag="binding_1"          
+            android:textColor="@color/gray_2"
+            android:textSize="@dimen/_12sdp" />
+
+        <com.trang.ez_mobile.util.custormView.TextViewFont
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.05"
+            android:gravity="center"
+            android:text="-"
+            android:textColor="@color/gray_2"
+            android:textSize="@dimen/_12sdp" />
+
+        <com.trang.ez_mobile.util.custormView.TextViewFont
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.8"
+            android:tag="binding_2"             
+            android:textColor="@color/gray_2"
+            android:textSize="@dimen/_12sdp" />
+
+    </LinearLayout>
+         

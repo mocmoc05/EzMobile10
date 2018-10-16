@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="network_error">Network Error</string>
+    <string name="error_connect_to_server">Cannot connect to server</string>
+
+    <!--MARKET OVERVIEW-->
+    <string name="change">Thay đổi</string>
+    <string name="change_percent">Thay đổi %</string>
+    <string name="volumn">Khối lượng</string>
+    <string name="low">Thấp</string>
+    <string name="high">Cao</string>
+    <string name="close">Đóng</string>
+    <string name="open">Mở</string>
+    <string name="symbol">Mã CK</string>
+    <string name="value_bil">Giá trị(tỷ)</string>
+    <string name="last">Giá</string>
+    <string name="indexes">Chỉ số</string>
+    <string name="setting">CÀI ĐẶT</string>
+    <!--MARKET OVERVIEW DETAIL-->
+    <string name="market_overview_detail_price_val"><![CDATA[GT: %1$s tỷ]]></string>
+    <string name="market_overview_detail_price_qty"><![CDATA[SL: %1$s]]></string>
+    <string name="market_overview_detail_foreign_val"><![CDATA[GT: %1$s tỷ]]></string>
+    <string name="market_overview_detail_foreign_qty"><![CDATA[SL: %1$s]]></string>
+
+    <string name="up_down_stocks">Số mã Tăng/Giảm:</string>
+    <string name="put_throught">Thỏa thuận:</string>
+
+    <string name="chart">BIỂU ĐỒ</string>
+    <string name="top_gainers">TĂNG MẠNH</string>
+    <string name="top_losers">GIẢM MẠNH</string>
+    <string name="most_active">GD NHIỀU</string>
+    <string name="language">Ngôn ngữ</string>
+
+    <!--WATCHLIST-->
+    <string name="bang_gia">Bảng Giá</string>
+    <string name="statistic">Thống Kê</string>
+    <string name="news">Tin Tức</string>
+    <string name="foreign_ownership">Sở hữu NN</string>
+    <string name="finance_overview">Tài chính</string>
+    <string name="financial_figures"><![CDATA[Chỉ số & Chi Tiêu]]></string>
+    <string name="trading">Giao Dịch</string>
+    <string name="key_fs_items">Chỉ Tiêu</string>
+    <string name="financial_ratios">Chỉ Số</string>
+    <string name="Favorites">Yêu Thích</string>
+    <!--BIỂU ĐỒ-->
+    <string name="chart1">Biểu đồ</string>
+    <string name="symbol_search">Symbol Search</string>
+    <!--HOME-->
+    <string name="home">Trang chủ</string>
+    <string name="news1">Tin Tức</string>
+    <string name="bil">tỷ</string>
+    <string name="world_index">Chỉ Số Chứng Khoán Thế Giới</string>
+    <string name="bang_gia_phai_sinh">Bảng Giá Phái Sinh</string>
+    <string name="watchlist">Bảng giá</string>
+    <string name="market_closed">Thị trường đóng cửa</string>
+    <string name="events">Sự kiện</string>
+
+    <!--TIN TUC-->
+    <string name="market_news">Tin thị trường</string>
+    <string name="department_report">Báo cáo ngành</string>
+    <string name="concern">Doanh nghiệp</string>
+    <string name="analysis_comment">Phân tích - Bình luận</string>
+    <string name="FPTS_news">Tin FPTS</string>
+    <string name="related_news">Tin liên quan</string>
+
+
+    <string name="login">Đăng nhập</string>
+    <string name="keep_me_logged_in">Ghi nhớ tài khoản</string>
+    <string name="password">Mật khẩu</string>
+    <string name="account">Tài khoản</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="don_t_have_an_account">Bạn chưa có tài khoản? </string>
+    <string name="create_account">Tạo Tài Khoản</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="you_dont_account">Bạn chưa nhập tài khoản</string>
+    <string name="you_dont_password">Bạn chưa nhập mật khẩu</string>
+
+    <!--DAT LENH-->
+    <string name="price">Giá</string>
+    <string name="order_type">Loại lệnh</string>
+    <string name="quantity">Số lượng</string>
+    <string name="exchange">Sàn GD</string>
+    <string name="confirm_buy">Xác Nhận Mua</string>
+    <string name="stock_balance">Số dư CK:</string>
+    <string name="confirm_sell">Xác nhận bán</string>
+    <string name="place_orders">Đặt lệnh</string>
+    <string name="sell">Mua</string>
+    <string name="buy">Bán</string>
+    <string name="available_cash">Số dư tiền: </string>
+
+    <!--BAO CAO TAI SAN-->
+    <string name="total">Tổng SL</string>
+    <string name="waiting">Đang treo</string>
+    <string name="current">SL hiện tại</string>
+    <string name="cash_balance">Số dư tiền:</string>
+    <string name="advance_amount">Ứng trước:</string>
+    <string name="available_balance">Số dư hiện tại:</string>
+    <string name="held_for_buying_orders">Đang treo:</string>
+    <string name="asset_report">Báo cáo tài sản</string>
+    <string name="stock">Chứng khoán</string>
+    <string name="cash">Tiền</string>
+    <string name="market_open">Thị trường mở cửa</string>
+
+
+    <string name="connect_net_fail">Connect Network Fail</string>
+    <string name="connect_server_fail">Connect Server Fail</string>
+    <string name="dont_find_stock">Don\'t find stock!</string>
+    <string name="find_stock_fail">Không tìm thấy Mã chứng khoán!</string>
+
+    <!--LỊCH SỬ ỨNG TIỀN-->
+    <string name="advance_report">Lịch sử ứng tiền</string>
+    <string name="contract_date">Ngày ứng</string>
+    <string name="amount">Số tiền</string>
+    <string name="status">Trạng thái</string>
+    <string name="money_confirm">Xác nhận ứng tiền</string>
+    <string name="money_loan">Ứng tiền</string>
+    <string name="the_money_you_are_having">Số tiền bạn đang có:</string>
+    <string name="the_maximum_amount_you_can_apply">Số tiền tối đa ứng:</string>
+    <string name="get_money_back">Nhập số tiền ứng</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data></data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.trang.ez_mobile.util.custormView.TabLayoutFont
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_30sdp"
+            android:textSize="@dimen/_12sdp"
+            app:tabIndicatorColor="@color/green"
+            app:tabSelectedTextColor="@color/green"
+            app:tabTextColor="@color/black1" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <!--<android.support.v4.view.PagerTabStrip-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:padding="@dimen/_4sdp"-->
+            <!--app:tabIndicatorColor="@color/green"-->
+            <!--app:tabSelectedTextColor="@color/green"-->
+            <!--app:tabTextColor="#707070">-->
+
+            <!--</android.support.v4.view.PagerTabStrip>-->
+        </android.support.v4.view.ViewPager>
+
+    </LinearLayout>
+</layout>

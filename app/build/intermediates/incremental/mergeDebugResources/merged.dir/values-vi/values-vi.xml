@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="FPTS_news">Tin FPTS</string>
+    <string name="Favorites">Yêu Thích</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Điều hướng lên trên"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Thêm tùy chọn"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"TẮT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BẬT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Tìm kiếm truy vấn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="account">Tài khoản</string>
+    <string name="advance_amount">Ứng trước:</string>
+    <string name="advance_report">Lịch sử ứng tiền</string>
+    <string name="amount">Số tiền</string>
+    <string name="analysis_comment">Phân tích - Bình luận</string>
+    <string name="asset_report">Báo cáo tài sản</string>
+    <string name="available_balance">Số dư hiện tại:</string>
+    <string name="available_cash">Số dư tiền: </string>
+    <string name="bang_gia">Bảng Giá</string>
+    <string name="bang_gia_phai_sinh">Bảng Giá Phái Sinh</string>
+    <string name="bil">tỷ</string>
+    <string name="buy">Bán</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="cash">Tiền</string>
+    <string name="cash_balance">Số dư tiền:</string>
+    <string name="change">Thay đổi</string>
+    <string name="change_percent">Thay đổi %</string>
+    <string name="chart">BIỂU ĐỒ</string>
+    <string name="chart1">Biểu đồ</string>
+    <string name="close">Đóng</string>
+    <string name="concern">Doanh nghiệp</string>
+    <string name="confirm_buy">Xác Nhận Mua</string>
+    <string name="confirm_sell">Xác nhận bán</string>
+    <string name="connect_net_fail">Connect Network Fail</string>
+    <string name="connect_server_fail">Connect Server Fail</string>
+    <string name="contract_date">Ngày ứng</string>
+    <string name="create_account">Tạo Tài Khoản</string>
+    <string name="current">SL hiện tại</string>
+    <string name="department_report">Báo cáo ngành</string>
+    <string name="don_t_have_an_account">Bạn chưa có tài khoản? </string>
+    <string name="dont_find_stock">Don\'t find stock!</string>
+    <string name="error_connect_to_server">Cannot connect to server</string>
+    <string name="events">Sự kiện</string>
+    <string name="exchange">Sàn GD</string>
+    <string name="finance_overview">Tài chính</string>
+    <string name="financial_figures"><![CDATA[Chỉ số & Chi Tiêu]]></string>
+    <string name="financial_ratios">Chỉ Số</string>
+    <string name="find_stock_fail">Không tìm thấy Mã chứng khoán!</string>
+    <string name="foreign_ownership">Sở hữu NN</string>
+    <string name="get_money_back">Nhập số tiền ứng</string>
+    <string name="held_for_buying_orders">Đang treo:</string>
+    <string name="high">Cao</string>
+    <string name="home">Trang chủ</string>
+    <string name="indexes">Chỉ số</string>
+    <string name="keep_me_logged_in">Ghi nhớ tài khoản</string>
+    <string name="key_fs_items">Chỉ Tiêu</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="last">Giá</string>
+    <string name="login">Đăng nhập</string>
+    <string name="low">Thấp</string>
+    <string name="market_closed">Thị trường đóng cửa</string>
+    <string name="market_news">Tin thị trường</string>
+    <string name="market_open">Thị trường mở cửa</string>
+    <string name="market_overview_detail_foreign_qty"><![CDATA[SL: %1$s]]></string>
+    <string name="market_overview_detail_foreign_val"><![CDATA[GT: %1$s tỷ]]></string>
+    <string name="market_overview_detail_price_qty"><![CDATA[SL: %1$s]]></string>
+    <string name="market_overview_detail_price_val"><![CDATA[GT: %1$s tỷ]]></string>
+    <string name="money_confirm">Xác nhận ứng tiền</string>
+    <string name="money_loan">Ứng tiền</string>
+    <string name="most_active">GD NHIỀU</string>
+    <string name="network_error">Network Error</string>
+    <string name="news">Tin Tức</string>
+    <string name="news1">Tin Tức</string>
+    <string name="open">Mở</string>
+    <string name="order_type">Loại lệnh</string>
+    <string name="password">Mật khẩu</string>
+    <string name="place_orders">Đặt lệnh</string>
+    <string name="price">Giá</string>
+    <string name="put_throught">Thỏa thuận:</string>
+    <string name="quantity">Số lượng</string>
+    <string name="related_news">Tin liên quan</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Tìm kiếm"</string>
+    <string name="sell">Mua</string>
+    <string name="setting">CÀI ĐẶT</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="statistic">Thống Kê</string>
+    <string name="status">Trạng thái</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stock">Chứng khoán</string>
+    <string name="stock_balance">Số dư CK:</string>
+    <string name="symbol">Mã CK</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="the_maximum_amount_you_can_apply">Số tiền tối đa ứng:</string>
+    <string name="the_money_you_are_having">Số tiền bạn đang có:</string>
+    <string name="top_gainers">TĂNG MẠNH</string>
+    <string name="top_losers">GIẢM MẠNH</string>
+    <string name="total">Tổng SL</string>
+    <string name="trading">Giao Dịch</string>
+    <string name="up_down_stocks">Số mã Tăng/Giảm:</string>
+    <string name="value_bil">Giá trị(tỷ)</string>
+    <string name="volumn">Khối lượng</string>
+    <string name="waiting">Đang treo</string>
+    <string name="watchlist">Bảng giá</string>
+    <string name="world_index">Chỉ Số Chứng Khoán Thế Giới</string>
+    <string name="you_dont_account">Bạn chưa nhập tài khoản</string>
+    <string name="you_dont_password">Bạn chưa nhập mật khẩu</string>
+</resources>

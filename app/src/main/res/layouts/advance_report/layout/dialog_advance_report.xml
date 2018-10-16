@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:orientation="horizontal"
+            android:padding="@dimen/_8sdp">
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7"
+                android:text="@string/the_money_you_are_having"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_value_sotiendangco"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3.5"
+                android:gravity="right"
+                android:text="0"
+                android:textColor="@color/green"
+                android:textSize="@dimen/_12sdp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:orientation="horizontal"
+            android:padding="@dimen/_8sdp">
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7"
+                android:text="@string/the_maximum_amount_you_can_apply"
+                android:textSize="@dimen/_12sdp" />
+
+            <com.trang.ez_mobile.util.custormView.TextViewFont
+                android:id="@+id/tv_max_tienung"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3.5"
+                android:gravity="right"
+                android:text="0"
+                android:textSize="@dimen/_12sdp" />
+        </LinearLayout>
+
+        <com.trang.ez_mobile.util.custormView.EditTextFont
+            android:id="@+id/edt_nhaptienung"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:hint="@string/get_money_back"
+            android:inputType="number"
+            android:textSize="@dimen/_12sdp"
+            android:padding="@dimen/_8sdp" />
+
+        <com.trang.ez_mobile.util.custormView.ButtonFont
+            android:id="@+id/btn_xacnhan"
+            android:layout_width="@dimen/_250sdp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_32sdp"
+            android:background="@drawable/custom_button_blue"
+            android:layout_margin="@dimen/_8sdp"
+            android:layout_marginBottom="@dimen/_16sdp"
+            android:textSize="@dimen/_12sdp"
+            android:textColor="@color/white"
+            android:text="@string/money_confirm" />
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,169 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data></data>
+
+    <FrameLayout
+        android:id="@+id/contentview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_9sdp">
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Khối lượng được mua:"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:id="@+id/klm"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:text="133534"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:layout_marginLeft="@dimen/_9sdp"
+                    android:layout_marginRight="@dimen/_9sdp"
+                    android:background="@color/Grey" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_9sdp">
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Khối lượng hiện tại:"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:id="@+id/khht"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:text="133534"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:layout_marginLeft="@dimen/_9sdp"
+                    android:layout_marginRight="@dimen/_9sdp"
+                    android:background="@color/Grey" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_9sdp">
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Khối lượng còn lại:"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:id="@+id/klcl"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:text="133534"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:layout_marginLeft="@dimen/_9sdp"
+                    android:layout_marginRight="@dimen/_9sdp"
+                    android:background="@color/Grey" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_9sdp">
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tỷ lệ sở hữu (%):"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:id="@+id/tyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:text="133534"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:layout_marginLeft="@dimen/_9sdp"
+                    android:layout_marginRight="@dimen/_9sdp"
+                    android:background="@color/Grey" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_9sdp">
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Cập nhật đến:"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                    <com.trang.ez_mobile.util.custormView.TextViewFont
+                        android:id="@+id/update"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:text="133534"
+                        android:textColor="@color/colorFont"
+                        android:textSize="@dimen/_10sdp" />
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+    </FrameLayout>
+</layout>
